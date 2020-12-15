@@ -53,7 +53,7 @@ return [
             // 'database' => env('DB_DATABASE', 'forge'),
             'database'=>'blogphp007',
             // 'username' => env('DB_USERNAME', 'forge'),
-            'username'=>'yethu2020@gmail.com',
+            'username'=>'yethu2020',
             // 'password' => env('DB_PASSWORD', ''),
             'password'=>'zikimi95',
             'unix_socket' => env('DB_SOCKET', ''),
